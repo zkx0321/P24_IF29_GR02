@@ -27,6 +27,7 @@ Ce repository contient l'ensemble des ressources qui ont été utiles à la réa
 3. Le code pour l'apprentissage automatique se trouve dans le répertoire `SVM`, `K-Means` respectivement
 
    - `SVM/ML_SVM.ipynb` qui permet d'exécuter notre algorithme SVM
+   - `SVM/EtiquettesMaker.ipynb` Ce fichier est le code que nous avons utilisé pour l'étiquetage, mais il ne représente **qu'une partie de l'exploration** de notre projet. **Les étiquettes finales n'ont pas été implémentées à l'aide du code de ce fichier**, mais ont été étiquetées à l'aide de l'algorithme K-means.
 
 
    - `K-Means/Kmeans_avec_pca.ipynb` qui est le fichier dans lequel se trouve l'intégralité du code nécessaire pour exécuter notre K-Means avec PCA 
